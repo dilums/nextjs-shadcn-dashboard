@@ -8,8 +8,8 @@ import Sidebar from "@/components/layout/Sidebar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Next Shacdn",
-  description: "Basic dashboard with Next.js and Shacdn",
+  title: "Next Shadcn",
+  description: "Basic dashboard with Next.js and Shadcn",
 };
 
 export default function RootLayout({
